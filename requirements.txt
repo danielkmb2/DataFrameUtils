@@ -1,0 +1,9 @@
+statsmodels
+luminol
+scipy
+sklearn
+numpy
+pandas
+elasticsearch
+progress
+matplotlib
